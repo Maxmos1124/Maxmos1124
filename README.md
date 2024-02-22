@@ -5,11 +5,6 @@
 - 😄 Pronouns: development
 
 
-<!--
-**Maxmos1124/Maxmos1124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <table>
   <tr>
     <td align="center" width="96">
@@ -102,4 +97,3 @@ Here are some ideas to get you started:
     </td>  
   </tr>
 </table>
--->
