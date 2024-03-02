@@ -8,7 +8,7 @@
 - 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
 
 
-# 💻 My favorite tools and technologies
+# 💻 My Skills
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
